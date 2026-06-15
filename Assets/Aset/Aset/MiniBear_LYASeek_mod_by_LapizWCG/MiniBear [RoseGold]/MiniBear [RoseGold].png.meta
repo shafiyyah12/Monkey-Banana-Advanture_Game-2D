@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: f729e405cecd648439cc5ca558b95c5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4897332387307642318
+    second: MiniBear [RoseGold]_0
+  - first:
+      213: -3149487349738492765
+    second: MiniBear [RoseGold]_1
+  - first:
+      213: -7737067430580215636
+    second: MiniBear [RoseGold]_2
+  - first:
+      213: -2585858910255621296
+    second: MiniBear [RoseGold]_3
+  - first:
+      213: 5992500601126930922
+    second: MiniBear [RoseGold]_4
+  - first:
+      213: 6139598550436399560
+    second: MiniBear [RoseGold]_5
+  - first:
+      213: 1298986852087825773
+    second: MiniBear [RoseGold]_6
+  - first:
+      213: -2144242075869746563
+    second: MiniBear [RoseGold]_7
+  - first:
+      213: -1301936437031447469
+    second: MiniBear [RoseGold]_8
+  - first:
+      213: -2448416570781817723
+    second: MiniBear [RoseGold]_9
+  - first:
+      213: -3585046861725480014
+    second: MiniBear [RoseGold]_10
+  - first:
+      213: 1312711860646103581
+    second: MiniBear [RoseGold]_11
+  - first:
+      213: 2443618217261742148
+    second: MiniBear [RoseGold]_12
+  - first:
+      213: -378940577575483374
+    second: MiniBear [RoseGold]_13
+  - first:
+      213: -5550420665875451704
+    second: MiniBear [RoseGold]_14
+  - first:
+      213: 5642316911400430588
+    second: MiniBear [RoseGold]_15
+  - first:
+      213: 7097869911875473783
+    second: MiniBear [RoseGold]_16
+  - first:
+      213: -3859390532301726678
+    second: MiniBear [RoseGold]_17
+  - first:
+      213: 3170748310062632889
+    second: MiniBear [RoseGold]_18
+  - first:
+      213: 4372559755928604696
+    second: MiniBear [RoseGold]_19
+  - first:
+      213: -6755657359348570201
+    second: MiniBear [RoseGold]_20
+  - first:
+      213: 6643890879265337676
+    second: MiniBear [RoseGold]_21
+  - first:
+      213: -7581819709087852510
+    second: MiniBear [RoseGold]_22
+  - first:
+      213: -6376762363301693183
+    second: MiniBear [RoseGold]_23
+  - first:
+      213: -4985349941862078308
+    second: MiniBear [RoseGold]_24
+  - first:
+      213: -68792339268967057
+    second: MiniBear [RoseGold]_25
+  - first:
+      213: -2239960784655858637
+    second: MiniBear [RoseGold]_26
+  - first:
+      213: 948433860687156518
+    second: MiniBear [RoseGold]_27
+  - first:
+      213: -8880803832798097935
+    second: MiniBear [RoseGold]_28
+  - first:
+      213: -2160811721379764421
+    second: MiniBear [RoseGold]_29
+  - first:
+      213: -3239904697743040744
+    second: MiniBear [RoseGold]_30
+  - first:
+      213: -2382330260184805072
+    second: MiniBear [RoseGold]_31
+  - first:
+      213: 5245111939553309854
+    second: MiniBear [RoseGold]_32
+  - first:
+      213: -9127322350012608106
+    second: MiniBear [RoseGold]_33
+  - first:
+      213: -8547157290658843287
+    second: MiniBear [RoseGold]_34
+  - first:
+      213: -3303017931173446669
+    second: MiniBear [RoseGold]_35
+  - first:
+      213: 2178246643377868084
+    second: MiniBear [RoseGold]_36
+  - first:
+      213: -5002558779551702670
+    second: MiniBear [RoseGold]_37
+  - first:
+      213: -293132642058539423
+    second: MiniBear [RoseGold]_38
+  - first:
+      213: -6354456138127173542
+    second: MiniBear [RoseGold]_39
+  - first:
+      213: -7187646958857085634
+    second: MiniBear [RoseGold]_40
+  - first:
+      213: 561881525529339190
+    second: MiniBear [RoseGold]_41
+  - first:
+      213: 1883324463925213145
+    second: MiniBear [RoseGold]_42
+  - first:
+      213: 312718181539714813
+    second: MiniBear [RoseGold]_43
+  - first:
+      213: -5752343673795136401
+    second: MiniBear [RoseGold]_44
+  - first:
+      213: -3618449787781059078
+    second: MiniBear [RoseGold]_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2322383142e290cb0800000000000000
+      internalID: -4897332387307642318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac204e21f5ca44d0800000000000000
+      internalID: -3149487349738492765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0a5052a2a60a490800000000000000
+      internalID: -7737067430580215636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b5fe6850f2d1cd0800000000000000
+      internalID: -2585858910255621296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae94c7e0c83a92350800000000000000
+      internalID: 5992500601126930922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9c3464a5c343550800000000000000
+      internalID: 6139598550436399560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65099ed8ade60210800000000000000
+      internalID: 1298986852087825773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a6653513f1e32e0800000000000000
+      internalID: -2144242075869746563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 192
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3545a9e55b79eede0800000000000000
+      internalID: -1301936437031447469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584ae54e91a750ed0800000000000000
+      internalID: -2448416570781817723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb49b7afda5f3ec0800000000000000
+      internalID: -3585046861725480014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ac0427b70b73210800000000000000
+      internalID: 1312711860646103581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4483f8e52d979e120800000000000000
+      internalID: 2443618217261742148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218c1aa6d8bbdbaf0800000000000000
+      internalID: -378940577575483374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0b180dfc1f8f2b0800000000000000
+      internalID: -5550420665875451704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 128
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfba33e26598d4e40800000000000000
+      internalID: 5642316911400430588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77155472413b08260800000000000000
+      internalID: 7097869911875473783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c56a042c0b07ac0800000000000000
+      internalID: -3859390532301726678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf0475e9c2c00c20800000000000000
+      internalID: 3170748310062632889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 128
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8101b436ee37eac30800000000000000
+      internalID: 4372559755928604696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a766c7bc651f32a0800000000000000
+      internalID: -6755657359348570201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c417119cd87d33c50800000000000000
+      internalID: 6643890879265337676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22853c01527f7c690800000000000000
+      internalID: -7581819709087852510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10972568a603187a0800000000000000
+      internalID: -6376762363301693183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98eb4234aa70dab0800000000000000
+      internalID: -4985349941862078308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65ea9e5bb99b0ff0800000000000000
+      internalID: -68792339268967057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 96
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33448cfb88f0ae0e0800000000000000
+      internalID: -2239960784655858637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d53f3293892d00800000000000000
+      internalID: 948433860687156518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd442277fb01c480800000000000000
+      internalID: -8880803832798097935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37a8a810314302e0800000000000000
+      internalID: -2160811721379764421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f18e8d7db8903d0800000000000000
+      internalID: -3239904697743040744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0315500204340fed0800000000000000
+      internalID: -2382330260184805072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e943c3ce4816ac840800000000000000
+      internalID: 5245111939553309854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691d3096eac355180800000000000000
+      internalID: -9127322350012608106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b3ea9ab5626980800000000000000
+      internalID: -8547157290658843287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb39a511b25922d0800000000000000
+      internalID: -3303017931173446669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 64
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d89b308cfaa3e10800000000000000
+      internalID: 2178246643377868084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 64
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2712fc07b47539ab0800000000000000
+      internalID: -5002558779551702670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e67064a659eebf0800000000000000
+      internalID: -293132642058539423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58112a4fcf60d7a0800000000000000
+      internalID: -6354456138127173542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d18663c29504c90800000000000000
+      internalID: -7187646958857085634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635e70f35443cc700800000000000000
+      internalID: 561881525529339190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7b0152f99e22a10800000000000000
+      internalID: 1883324463925213145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df61b7d778ff65400800000000000000
+      internalID: 312718181539714813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64b979e7e19b20b0800000000000000
+      internalID: -5752343673795136401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [RoseGold]_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afde8b1e61fa8cdc0800000000000000
+      internalID: -3618449787781059078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniBear [RoseGold]_0: -4897332387307642318
+      MiniBear [RoseGold]_1: -3149487349738492765
+      MiniBear [RoseGold]_10: -3585046861725480014
+      MiniBear [RoseGold]_11: 1312711860646103581
+      MiniBear [RoseGold]_12: 2443618217261742148
+      MiniBear [RoseGold]_13: -378940577575483374
+      MiniBear [RoseGold]_14: -5550420665875451704
+      MiniBear [RoseGold]_15: 5642316911400430588
+      MiniBear [RoseGold]_16: 7097869911875473783
+      MiniBear [RoseGold]_17: -3859390532301726678
+      MiniBear [RoseGold]_18: 3170748310062632889
+      MiniBear [RoseGold]_19: 4372559755928604696
+      MiniBear [RoseGold]_2: -7737067430580215636
+      MiniBear [RoseGold]_20: -6755657359348570201
+      MiniBear [RoseGold]_21: 6643890879265337676
+      MiniBear [RoseGold]_22: -7581819709087852510
+      MiniBear [RoseGold]_23: -6376762363301693183
+      MiniBear [RoseGold]_24: -4985349941862078308
+      MiniBear [RoseGold]_25: -68792339268967057
+      MiniBear [RoseGold]_26: -2239960784655858637
+      MiniBear [RoseGold]_27: 948433860687156518
+      MiniBear [RoseGold]_28: -8880803832798097935
+      MiniBear [RoseGold]_29: -2160811721379764421
+      MiniBear [RoseGold]_3: -2585858910255621296
+      MiniBear [RoseGold]_30: -3239904697743040744
+      MiniBear [RoseGold]_31: -2382330260184805072
+      MiniBear [RoseGold]_32: 5245111939553309854
+      MiniBear [RoseGold]_33: -9127322350012608106
+      MiniBear [RoseGold]_34: -8547157290658843287
+      MiniBear [RoseGold]_35: -3303017931173446669
+      MiniBear [RoseGold]_36: 2178246643377868084
+      MiniBear [RoseGold]_37: -5002558779551702670
+      MiniBear [RoseGold]_38: -293132642058539423
+      MiniBear [RoseGold]_39: -6354456138127173542
+      MiniBear [RoseGold]_4: 5992500601126930922
+      MiniBear [RoseGold]_40: -7187646958857085634
+      MiniBear [RoseGold]_41: 561881525529339190
+      MiniBear [RoseGold]_42: 1883324463925213145
+      MiniBear [RoseGold]_43: 312718181539714813
+      MiniBear [RoseGold]_44: -5752343673795136401
+      MiniBear [RoseGold]_45: -3618449787781059078
+      MiniBear [RoseGold]_5: 6139598550436399560
+      MiniBear [RoseGold]_6: 1298986852087825773
+      MiniBear [RoseGold]_7: -2144242075869746563
+      MiniBear [RoseGold]_8: -1301936437031447469
+      MiniBear [RoseGold]_9: -2448416570781817723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

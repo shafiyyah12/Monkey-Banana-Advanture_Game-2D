@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: aeb48ad5b6fc9d64a8940d707c55ba8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -259235868466339212
+    second: MiniBear [WildWest]_0
+  - first:
+      213: -1736259294344183860
+    second: MiniBear [WildWest]_1
+  - first:
+      213: 9018489712576118445
+    second: MiniBear [WildWest]_2
+  - first:
+      213: 5810364488482999332
+    second: MiniBear [WildWest]_3
+  - first:
+      213: 2077683537156432802
+    second: MiniBear [WildWest]_4
+  - first:
+      213: -5429454166327228226
+    second: MiniBear [WildWest]_5
+  - first:
+      213: 6910319949198130561
+    second: MiniBear [WildWest]_6
+  - first:
+      213: 4692194118262564238
+    second: MiniBear [WildWest]_7
+  - first:
+      213: 5376932618839111646
+    second: MiniBear [WildWest]_8
+  - first:
+      213: -5319592169133189292
+    second: MiniBear [WildWest]_9
+  - first:
+      213: 7834243132612891919
+    second: MiniBear [WildWest]_10
+  - first:
+      213: 8386890833894762861
+    second: MiniBear [WildWest]_11
+  - first:
+      213: 7515539712983612740
+    second: MiniBear [WildWest]_12
+  - first:
+      213: 7657801299557887742
+    second: MiniBear [WildWest]_13
+  - first:
+      213: 5885979587527778186
+    second: MiniBear [WildWest]_14
+  - first:
+      213: 5208246614118071968
+    second: MiniBear [WildWest]_15
+  - first:
+      213: 6044170698397657732
+    second: MiniBear [WildWest]_16
+  - first:
+      213: 2243343072702656376
+    second: MiniBear [WildWest]_17
+  - first:
+      213: 1256205318421178590
+    second: MiniBear [WildWest]_18
+  - first:
+      213: 2890657931381344956
+    second: MiniBear [WildWest]_19
+  - first:
+      213: -5494014509342006869
+    second: MiniBear [WildWest]_20
+  - first:
+      213: -5182493450480704158
+    second: MiniBear [WildWest]_21
+  - first:
+      213: -5762005302126821675
+    second: MiniBear [WildWest]_22
+  - first:
+      213: -9202648177150290333
+    second: MiniBear [WildWest]_23
+  - first:
+      213: 4288780809770006068
+    second: MiniBear [WildWest]_24
+  - first:
+      213: 2876113803529987435
+    second: MiniBear [WildWest]_25
+  - first:
+      213: 7312748938598054620
+    second: MiniBear [WildWest]_26
+  - first:
+      213: -8410504389110422534
+    second: MiniBear [WildWest]_27
+  - first:
+      213: -722581658047527632
+    second: MiniBear [WildWest]_28
+  - first:
+      213: -8977989002185590720
+    second: MiniBear [WildWest]_29
+  - first:
+      213: 7378929553207204173
+    second: MiniBear [WildWest]_30
+  - first:
+      213: -6521649780445256483
+    second: MiniBear [WildWest]_31
+  - first:
+      213: 4910407625749060654
+    second: MiniBear [WildWest]_32
+  - first:
+      213: -5464657010631422363
+    second: MiniBear [WildWest]_33
+  - first:
+      213: -2329121583454255041
+    second: MiniBear [WildWest]_34
+  - first:
+      213: -6065298772675175836
+    second: MiniBear [WildWest]_35
+  - first:
+      213: 1853357627790125202
+    second: MiniBear [WildWest]_36
+  - first:
+      213: 7321340095432865701
+    second: MiniBear [WildWest]_37
+  - first:
+      213: -5495270583387018572
+    second: MiniBear [WildWest]_38
+  - first:
+      213: 7906365523071344720
+    second: MiniBear [WildWest]_39
+  - first:
+      213: -6581720290605587788
+    second: MiniBear [WildWest]_40
+  - first:
+      213: 3221889742080750444
+    second: MiniBear [WildWest]_41
+  - first:
+      213: 7141074742462615811
+    second: MiniBear [WildWest]_42
+  - first:
+      213: -7898021364411645107
+    second: MiniBear [WildWest]_43
+  - first:
+      213: -1881371882120679246
+    second: MiniBear [WildWest]_44
+  - first:
+      213: 5718845881638873063
+    second: MiniBear [WildWest]_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4722603e952076cf0800000000000000
+      internalID: -259235868466339212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccff4a2fe5197e7e0800000000000000
+      internalID: -1736259294344183860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae3d909c9c182d70800000000000000
+      internalID: 9018489712576118445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cc297b7bf82a050800000000000000
+      internalID: 5810364488482999332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e2e34b2a65dc10800000000000000
+      internalID: 2077683537156432802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb80dc3c334b6a4b0800000000000000
+      internalID: -5429454166327228226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dff30a16366ef50800000000000000
+      internalID: 6910319949198130561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85a734b0b50e1140800000000000000
+      internalID: 4692194118262564238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 192
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7bd178ab3be9a40800000000000000
+      internalID: 5376932618839111646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457ddd84b130d26b0800000000000000
+      internalID: -5319592169133189292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f055f6b1f92d8bc60800000000000000
+      internalID: 7834243132612891919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69e64c17c8346470800000000000000
+      internalID: 8386890833894762861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dbab7cc8f8c4860800000000000000
+      internalID: 7515539712983612740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe2cac85b9f54a60800000000000000
+      internalID: 7657801299557887742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f1bc5ef333fa150800000000000000
+      internalID: 5885979587527778186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 128
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae732973b8674840800000000000000
+      internalID: 5208246614118071968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a21df0a3531e350800000000000000
+      internalID: 6044170698397657732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f66cd83a4f12f10800000000000000
+      internalID: 2243343072702656376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed86379d410fe6110800000000000000
+      internalID: 1256205318421178590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 128
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba862fb21ead1820800000000000000
+      internalID: 2890657931381344956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e3db89e651c3b0800000000000000
+      internalID: -5494014509342006869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2652f413aa51418b0800000000000000
+      internalID: -5182493450480704158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de30d4c4be3900b0800000000000000
+      internalID: -5762005302126821675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3669f089d30a94080800000000000000
+      internalID: -9202648177150290333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4367add6c6fc48b30800000000000000
+      internalID: 4288780809770006068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65a00914420ae720800000000000000
+      internalID: 2876113803529987435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 96
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda70c04a6a1c7560800000000000000
+      internalID: 7312748938598054620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3a531a1d2e74b80800000000000000
+      internalID: -8410504389110422534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0354dd67fcfd8f5f0800000000000000
+      internalID: -722581658047527632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0483d57e196c76380800000000000000
+      internalID: -8977989002185590720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491c895559376660800000000000000
+      internalID: 7378929553207204173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd46e0fe3127e75a0800000000000000
+      internalID: -6521649780445256483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c542b18b5452440800000000000000
+      internalID: 4910407625749060654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e47fdd663a924b0800000000000000
+      internalID: -5464657010631422363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f388383924c4dafd0800000000000000
+      internalID: -2329121583454255041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a551ec6eab3dba0800000000000000
+      internalID: -6065298772675175836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 64
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298e03661f278b910800000000000000
+      internalID: 1853357627790125202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 64
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7b914d600aa9560800000000000000
+      internalID: 7321340095432865701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba20940580ecb3b0800000000000000
+      internalID: -5495270583387018572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0502013bd8d09bd60800000000000000
+      internalID: 7906365523071344720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b22973644809a4a0800000000000000
+      internalID: -6581720290605587788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63b23e66a376bc20800000000000000
+      internalID: 3221889742080750444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3019ffaa4a13a1360800000000000000
+      internalID: 7141074742462615811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d434cc12a67946290800000000000000
+      internalID: -7898021364411645107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0f9cbbd3604e5e0800000000000000
+      internalID: -1881371882120679246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [WildWest]_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e76a44970c6d5f40800000000000000
+      internalID: 5718845881638873063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniBear [WildWest]_0: -259235868466339212
+      MiniBear [WildWest]_1: -1736259294344183860
+      MiniBear [WildWest]_10: 7834243132612891919
+      MiniBear [WildWest]_11: 8386890833894762861
+      MiniBear [WildWest]_12: 7515539712983612740
+      MiniBear [WildWest]_13: 7657801299557887742
+      MiniBear [WildWest]_14: 5885979587527778186
+      MiniBear [WildWest]_15: 5208246614118071968
+      MiniBear [WildWest]_16: 6044170698397657732
+      MiniBear [WildWest]_17: 2243343072702656376
+      MiniBear [WildWest]_18: 1256205318421178590
+      MiniBear [WildWest]_19: 2890657931381344956
+      MiniBear [WildWest]_2: 9018489712576118445
+      MiniBear [WildWest]_20: -5494014509342006869
+      MiniBear [WildWest]_21: -5182493450480704158
+      MiniBear [WildWest]_22: -5762005302126821675
+      MiniBear [WildWest]_23: -9202648177150290333
+      MiniBear [WildWest]_24: 4288780809770006068
+      MiniBear [WildWest]_25: 2876113803529987435
+      MiniBear [WildWest]_26: 7312748938598054620
+      MiniBear [WildWest]_27: -8410504389110422534
+      MiniBear [WildWest]_28: -722581658047527632
+      MiniBear [WildWest]_29: -8977989002185590720
+      MiniBear [WildWest]_3: 5810364488482999332
+      MiniBear [WildWest]_30: 7378929553207204173
+      MiniBear [WildWest]_31: -6521649780445256483
+      MiniBear [WildWest]_32: 4910407625749060654
+      MiniBear [WildWest]_33: -5464657010631422363
+      MiniBear [WildWest]_34: -2329121583454255041
+      MiniBear [WildWest]_35: -6065298772675175836
+      MiniBear [WildWest]_36: 1853357627790125202
+      MiniBear [WildWest]_37: 7321340095432865701
+      MiniBear [WildWest]_38: -5495270583387018572
+      MiniBear [WildWest]_39: 7906365523071344720
+      MiniBear [WildWest]_4: 2077683537156432802
+      MiniBear [WildWest]_40: -6581720290605587788
+      MiniBear [WildWest]_41: 3221889742080750444
+      MiniBear [WildWest]_42: 7141074742462615811
+      MiniBear [WildWest]_43: -7898021364411645107
+      MiniBear [WildWest]_44: -1881371882120679246
+      MiniBear [WildWest]_45: 5718845881638873063
+      MiniBear [WildWest]_5: -5429454166327228226
+      MiniBear [WildWest]_6: 6910319949198130561
+      MiniBear [WildWest]_7: 4692194118262564238
+      MiniBear [WildWest]_8: 5376932618839111646
+      MiniBear [WildWest]_9: -5319592169133189292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

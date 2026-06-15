@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: 3d167cb3eff020c4f881bbaa5de46432
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8070097279781489270
+    second: MiniBear [PiggyPink]_0
+  - first:
+      213: -6204433970591900626
+    second: MiniBear [PiggyPink]_1
+  - first:
+      213: -1438292923253970089
+    second: MiniBear [PiggyPink]_2
+  - first:
+      213: 2509029214759993523
+    second: MiniBear [PiggyPink]_3
+  - first:
+      213: -662437193891058536
+    second: MiniBear [PiggyPink]_4
+  - first:
+      213: 8754494418930025006
+    second: MiniBear [PiggyPink]_5
+  - first:
+      213: -5277001604051771862
+    second: MiniBear [PiggyPink]_6
+  - first:
+      213: -8185115144078850038
+    second: MiniBear [PiggyPink]_7
+  - first:
+      213: 7472871198075972462
+    second: MiniBear [PiggyPink]_8
+  - first:
+      213: 3055356858659761597
+    second: MiniBear [PiggyPink]_9
+  - first:
+      213: 9014900017567606345
+    second: MiniBear [PiggyPink]_10
+  - first:
+      213: 7635691483428171965
+    second: MiniBear [PiggyPink]_11
+  - first:
+      213: 5197326566141038286
+    second: MiniBear [PiggyPink]_12
+  - first:
+      213: 6711256498575878899
+    second: MiniBear [PiggyPink]_13
+  - first:
+      213: -2803102443824941173
+    second: MiniBear [PiggyPink]_14
+  - first:
+      213: 5720961479934102725
+    second: MiniBear [PiggyPink]_15
+  - first:
+      213: -2751158409023419054
+    second: MiniBear [PiggyPink]_16
+  - first:
+      213: 766117155932420781
+    second: MiniBear [PiggyPink]_17
+  - first:
+      213: -7522197536344692763
+    second: MiniBear [PiggyPink]_18
+  - first:
+      213: 472084100209151019
+    second: MiniBear [PiggyPink]_19
+  - first:
+      213: -6169647710014096870
+    second: MiniBear [PiggyPink]_20
+  - first:
+      213: -7435354068725155644
+    second: MiniBear [PiggyPink]_21
+  - first:
+      213: -7850879782467018998
+    second: MiniBear [PiggyPink]_22
+  - first:
+      213: 8607068282146117002
+    second: MiniBear [PiggyPink]_23
+  - first:
+      213: 6242716493156628923
+    second: MiniBear [PiggyPink]_24
+  - first:
+      213: 3099354407058565451
+    second: MiniBear [PiggyPink]_25
+  - first:
+      213: 4450324308120851567
+    second: MiniBear [PiggyPink]_26
+  - first:
+      213: 8318694525680469093
+    second: MiniBear [PiggyPink]_27
+  - first:
+      213: -4287816414144581027
+    second: MiniBear [PiggyPink]_28
+  - first:
+      213: 983592461063369443
+    second: MiniBear [PiggyPink]_29
+  - first:
+      213: 2964303033204418483
+    second: MiniBear [PiggyPink]_30
+  - first:
+      213: -7513626683591256559
+    second: MiniBear [PiggyPink]_31
+  - first:
+      213: -3149296431880684855
+    second: MiniBear [PiggyPink]_32
+  - first:
+      213: 4204180671969850005
+    second: MiniBear [PiggyPink]_33
+  - first:
+      213: 2795644485855150960
+    second: MiniBear [PiggyPink]_34
+  - first:
+      213: 3827142752777742122
+    second: MiniBear [PiggyPink]_35
+  - first:
+      213: 521934040186979135
+    second: MiniBear [PiggyPink]_36
+  - first:
+      213: 9103205261420009563
+    second: MiniBear [PiggyPink]_37
+  - first:
+      213: 8488845594521759328
+    second: MiniBear [PiggyPink]_38
+  - first:
+      213: 1642389828161638618
+    second: MiniBear [PiggyPink]_39
+  - first:
+      213: -8117041260097083370
+    second: MiniBear [PiggyPink]_40
+  - first:
+      213: -5529131590897314180
+    second: MiniBear [PiggyPink]_41
+  - first:
+      213: 6898060563585849597
+    second: MiniBear [PiggyPink]_42
+  - first:
+      213: 3421204025858296795
+    second: MiniBear [PiggyPink]_43
+  - first:
+      213: -4996063111537843563
+    second: MiniBear [PiggyPink]_44
+  - first:
+      213: -4268785976856224766
+    second: MiniBear [PiggyPink]_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8537cff741410090800000000000000
+      internalID: -8070097279781489270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cd08e1d2c65e9a0800000000000000
+      internalID: -6204433970591900626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b2d7ae4382a0ce0800000000000000
+      internalID: -1438292923253970089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0c8d407ccd1d220800000000000000
+      internalID: 2509029214759993523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ced14c1ec8ec6f0800000000000000
+      internalID: -662437193891058536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22c67c6a463e7970800000000000000
+      internalID: 8754494418930025006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ed357fff254c6b0800000000000000
+      internalID: -5277001604051771862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08828f9421a86e80800000000000000
+      internalID: -8185115144078850038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 192
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6be09df2c8f4b760800000000000000
+      internalID: 7472871198075972462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbde77effdec66a20800000000000000
+      internalID: 3055356858659761597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946a7c09dcb5b1d70800000000000000
+      internalID: 9014900017567606345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db03634d2fc67f960800000000000000
+      internalID: 7635691483428171965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece898ca9fc902840800000000000000
+      internalID: 5197326566141038286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faa52a4a3c232d50800000000000000
+      internalID: 6711256498575878899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87f8c6cd216919d0800000000000000
+      internalID: -2803102443824941173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 128
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc4a21b720f46f40800000000000000
+      internalID: 5720961479934102725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d8455d00ce1d9d0800000000000000
+      internalID: -2751158409023419054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa3fa78e7bc1aa00800000000000000
+      internalID: 766117155932420781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e72bdbe139cb9790800000000000000
+      internalID: -7522197536344692763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 128
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c8319ecfd2d8600800000000000000
+      internalID: 472084100209151019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1abe4f8812016aa0800000000000000
+      internalID: -6169647710014096870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b1626ed050d890800000000000000
+      internalID: -7435354068725155644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fd1cffe621c0390800000000000000
+      internalID: -7850879782467018998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85d9da1003727770800000000000000
+      internalID: 8607068282146117002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9b210439592a650800000000000000
+      internalID: 6242716493156628923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4964c1896e130b20800000000000000
+      internalID: 3099354407058565451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 96
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6454d0216ab2cd30800000000000000
+      internalID: 4450324308120851567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564cb26c890f17370800000000000000
+      internalID: 8318694525680469093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52b2dc60bd9e74c0800000000000000
+      internalID: -4287816414144581027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e23f6dc12c66ad00800000000000000
+      internalID: 983592461063369443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b723c437e1532920800000000000000
+      internalID: 2964303033204418483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11695a5175c3ab790800000000000000
+      internalID: -7513626683591256559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab855b4937b44d0800000000000000
+      internalID: -3149296431880684855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5927354eb00485a30800000000000000
+      internalID: 4204180671969850005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0730da119df1cc620800000000000000
+      internalID: 2795644485855150960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27270c7e0ebc1530800000000000000
+      internalID: 3827142752777742122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 64
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3387858e384e3700800000000000000
+      internalID: 521934040186979135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 64
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58186454f4155e70800000000000000
+      internalID: 9103205261420009563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eeb96a7107ec570800000000000000
+      internalID: 8488845594521759328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad01a42d8d0fac610800000000000000
+      internalID: 1642389828161638618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61869b8daf97a5f80800000000000000
+      internalID: -8117041260097083370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76dc28dc149443b0800000000000000
+      internalID: -5529131590897314180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df85aabf885dabf50800000000000000
+      internalID: 6898060563585849597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb8b696fee8a7f20800000000000000
+      internalID: 3421204025858296795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592aa51021b6aaab0800000000000000
+      internalID: -4996063111537843563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [PiggyPink]_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cd05365c932c4c0800000000000000
+      internalID: -4268785976856224766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniBear [PiggyPink]_0: -8070097279781489270
+      MiniBear [PiggyPink]_1: -6204433970591900626
+      MiniBear [PiggyPink]_10: 9014900017567606345
+      MiniBear [PiggyPink]_11: 7635691483428171965
+      MiniBear [PiggyPink]_12: 5197326566141038286
+      MiniBear [PiggyPink]_13: 6711256498575878899
+      MiniBear [PiggyPink]_14: -2803102443824941173
+      MiniBear [PiggyPink]_15: 5720961479934102725
+      MiniBear [PiggyPink]_16: -2751158409023419054
+      MiniBear [PiggyPink]_17: 766117155932420781
+      MiniBear [PiggyPink]_18: -7522197536344692763
+      MiniBear [PiggyPink]_19: 472084100209151019
+      MiniBear [PiggyPink]_2: -1438292923253970089
+      MiniBear [PiggyPink]_20: -6169647710014096870
+      MiniBear [PiggyPink]_21: -7435354068725155644
+      MiniBear [PiggyPink]_22: -7850879782467018998
+      MiniBear [PiggyPink]_23: 8607068282146117002
+      MiniBear [PiggyPink]_24: 6242716493156628923
+      MiniBear [PiggyPink]_25: 3099354407058565451
+      MiniBear [PiggyPink]_26: 4450324308120851567
+      MiniBear [PiggyPink]_27: 8318694525680469093
+      MiniBear [PiggyPink]_28: -4287816414144581027
+      MiniBear [PiggyPink]_29: 983592461063369443
+      MiniBear [PiggyPink]_3: 2509029214759993523
+      MiniBear [PiggyPink]_30: 2964303033204418483
+      MiniBear [PiggyPink]_31: -7513626683591256559
+      MiniBear [PiggyPink]_32: -3149296431880684855
+      MiniBear [PiggyPink]_33: 4204180671969850005
+      MiniBear [PiggyPink]_34: 2795644485855150960
+      MiniBear [PiggyPink]_35: 3827142752777742122
+      MiniBear [PiggyPink]_36: 521934040186979135
+      MiniBear [PiggyPink]_37: 9103205261420009563
+      MiniBear [PiggyPink]_38: 8488845594521759328
+      MiniBear [PiggyPink]_39: 1642389828161638618
+      MiniBear [PiggyPink]_4: -662437193891058536
+      MiniBear [PiggyPink]_40: -8117041260097083370
+      MiniBear [PiggyPink]_41: -5529131590897314180
+      MiniBear [PiggyPink]_42: 6898060563585849597
+      MiniBear [PiggyPink]_43: 3421204025858296795
+      MiniBear [PiggyPink]_44: -4996063111537843563
+      MiniBear [PiggyPink]_45: -4268785976856224766
+      MiniBear [PiggyPink]_5: 8754494418930025006
+      MiniBear [PiggyPink]_6: -5277001604051771862
+      MiniBear [PiggyPink]_7: -8185115144078850038
+      MiniBear [PiggyPink]_8: 7472871198075972462
+      MiniBear [PiggyPink]_9: 3055356858659761597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

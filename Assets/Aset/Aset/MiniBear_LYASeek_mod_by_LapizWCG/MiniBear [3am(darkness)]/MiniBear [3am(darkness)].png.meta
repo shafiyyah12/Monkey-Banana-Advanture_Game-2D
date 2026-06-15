@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: 705e7cee990d079479a9914afa8b4324
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6440887788312517119
+    second: MiniBear [3am(darkness)]_0
+  - first:
+      213: -8858555564988787100
+    second: MiniBear [3am(darkness)]_1
+  - first:
+      213: -7679629853732734775
+    second: MiniBear [3am(darkness)]_2
+  - first:
+      213: 1512016152814367594
+    second: MiniBear [3am(darkness)]_3
+  - first:
+      213: -5537702040285071008
+    second: MiniBear [3am(darkness)]_4
+  - first:
+      213: 5685740423298032336
+    second: MiniBear [3am(darkness)]_5
+  - first:
+      213: -6597914046069324781
+    second: MiniBear [3am(darkness)]_6
+  - first:
+      213: 5647854759693081367
+    second: MiniBear [3am(darkness)]_7
+  - first:
+      213: 6112151588072727267
+    second: MiniBear [3am(darkness)]_8
+  - first:
+      213: 6842343657627108709
+    second: MiniBear [3am(darkness)]_9
+  - first:
+      213: 2980689698830388247
+    second: MiniBear [3am(darkness)]_10
+  - first:
+      213: -3914421700043496232
+    second: MiniBear [3am(darkness)]_11
+  - first:
+      213: -5533558530867424115
+    second: MiniBear [3am(darkness)]_12
+  - first:
+      213: 6367105223780956826
+    second: MiniBear [3am(darkness)]_13
+  - first:
+      213: 8693578458055754924
+    second: MiniBear [3am(darkness)]_14
+  - first:
+      213: -2739840574311250975
+    second: MiniBear [3am(darkness)]_15
+  - first:
+      213: -2721144321962472443
+    second: MiniBear [3am(darkness)]_16
+  - first:
+      213: 3257845258218057688
+    second: MiniBear [3am(darkness)]_17
+  - first:
+      213: -8550488690679714710
+    second: MiniBear [3am(darkness)]_18
+  - first:
+      213: -2469384499818212279
+    second: MiniBear [3am(darkness)]_19
+  - first:
+      213: 3763219842729451363
+    second: MiniBear [3am(darkness)]_20
+  - first:
+      213: -5041064830522197083
+    second: MiniBear [3am(darkness)]_21
+  - first:
+      213: 1822958685556902492
+    second: MiniBear [3am(darkness)]_22
+  - first:
+      213: 1784790018570451338
+    second: MiniBear [3am(darkness)]_23
+  - first:
+      213: 8934880973486498471
+    second: MiniBear [3am(darkness)]_24
+  - first:
+      213: 7693543743384162029
+    second: MiniBear [3am(darkness)]_25
+  - first:
+      213: 3341444652597481664
+    second: MiniBear [3am(darkness)]_26
+  - first:
+      213: -6460091768502420207
+    second: MiniBear [3am(darkness)]_27
+  - first:
+      213: -2797830936224647419
+    second: MiniBear [3am(darkness)]_28
+  - first:
+      213: -4649605440916599764
+    second: MiniBear [3am(darkness)]_29
+  - first:
+      213: 2282585790127380115
+    second: MiniBear [3am(darkness)]_30
+  - first:
+      213: 948511120674719589
+    second: MiniBear [3am(darkness)]_31
+  - first:
+      213: 7912158118125266045
+    second: MiniBear [3am(darkness)]_32
+  - first:
+      213: 8440691126356038106
+    second: MiniBear [3am(darkness)]_33
+  - first:
+      213: 1538975477106882229
+    second: MiniBear [3am(darkness)]_34
+  - first:
+      213: 6639562370020473652
+    second: MiniBear [3am(darkness)]_35
+  - first:
+      213: 1217779327364189043
+    second: MiniBear [3am(darkness)]_36
+  - first:
+      213: 189344735518063996
+    second: MiniBear [3am(darkness)]_37
+  - first:
+      213: -7352795380359017531
+    second: MiniBear [3am(darkness)]_38
+  - first:
+      213: 8956348904612169492
+    second: MiniBear [3am(darkness)]_39
+  - first:
+      213: -219956267421372202
+    second: MiniBear [3am(darkness)]_40
+  - first:
+      213: -4090287915705266142
+    second: MiniBear [3am(darkness)]_41
+  - first:
+      213: 2288964604050333997
+    second: MiniBear [3am(darkness)]_42
+  - first:
+      213: 7842332608506343642
+    second: MiniBear [3am(darkness)]_43
+  - first:
+      213: -2546738148484793723
+    second: MiniBear [3am(darkness)]_44
+  - first:
+      213: -4996750392870991687
+    second: MiniBear [3am(darkness)]_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4c66b0c8bc5a870800000000000000
+      internalID: 8693578458055754924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 128
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3c9f293812af9d0800000000000000
+      internalID: -2739840574311250975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c0bda08ad8c3ad0800000000000000
+      internalID: -2721144321962472443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df27456001363d20800000000000000
+      internalID: 3257845258218057688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c6a0896df865980800000000000000
+      internalID: -8550488690679714710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 128
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944da7a71ebfabdd0800000000000000
+      internalID: -2469384499818212279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f17913284a93430800000000000000
+      internalID: 3763219842729451363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220905bdfc06c37c0800000000000000
+      internalID: -4090287915705266142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21ecdf0e2904cf10800000000000000
+      internalID: 2288964604050333997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0bb7cf4ff85dc60800000000000000
+      internalID: 7842332608506343642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ab0aba52b28acd0800000000000000
+      internalID: -2546738148484793723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [3am(darkness)]_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b881a9ddf9f7aab0800000000000000
+      internalID: -4996750392870991687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 282641e8a0bfa5a4fb5177c8e9290ba7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniBear [3am(darkness)]_0: 6440887788312517119
+      MiniBear [3am(darkness)]_1: -8858555564988787100
+      MiniBear [3am(darkness)]_10: 2980689698830388247
+      MiniBear [3am(darkness)]_11: -3914421700043496232
+      MiniBear [3am(darkness)]_12: -5533558530867424115
+      MiniBear [3am(darkness)]_13: 6367105223780956826
+      MiniBear [3am(darkness)]_14: 8693578458055754924
+      MiniBear [3am(darkness)]_15: -2739840574311250975
+      MiniBear [3am(darkness)]_16: -2721144321962472443
+      MiniBear [3am(darkness)]_17: 3257845258218057688
+      MiniBear [3am(darkness)]_18: -8550488690679714710
+      MiniBear [3am(darkness)]_19: -2469384499818212279
+      MiniBear [3am(darkness)]_2: -7679629853732734775
+      MiniBear [3am(darkness)]_20: 3763219842729451363
+      MiniBear [3am(darkness)]_21: -5041064830522197083
+      MiniBear [3am(darkness)]_22: 1822958685556902492
+      MiniBear [3am(darkness)]_23: 1784790018570451338
+      MiniBear [3am(darkness)]_24: 8934880973486498471
+      MiniBear [3am(darkness)]_25: 7693543743384162029
+      MiniBear [3am(darkness)]_26: 3341444652597481664
+      MiniBear [3am(darkness)]_27: -6460091768502420207
+      MiniBear [3am(darkness)]_28: -2797830936224647419
+      MiniBear [3am(darkness)]_29: -4649605440916599764
+      MiniBear [3am(darkness)]_3: 1512016152814367594
+      MiniBear [3am(darkness)]_30: 2282585790127380115
+      MiniBear [3am(darkness)]_31: 948511120674719589
+      MiniBear [3am(darkness)]_32: 7912158118125266045
+      MiniBear [3am(darkness)]_33: 8440691126356038106
+      MiniBear [3am(darkness)]_34: 1538975477106882229
+      MiniBear [3am(darkness)]_35: 6639562370020473652
+      MiniBear [3am(darkness)]_36: 1217779327364189043
+      MiniBear [3am(darkness)]_37: 189344735518063996
+      MiniBear [3am(darkness)]_38: -7352795380359017531
+      MiniBear [3am(darkness)]_39: 8956348904612169492
+      MiniBear [3am(darkness)]_4: -5537702040285071008
+      MiniBear [3am(darkness)]_40: -219956267421372202
+      MiniBear [3am(darkness)]_41: -4090287915705266142
+      MiniBear [3am(darkness)]_42: 2288964604050333997
+      MiniBear [3am(darkness)]_43: 7842332608506343642
+      MiniBear [3am(darkness)]_44: -2546738148484793723
+      MiniBear [3am(darkness)]_45: -4996750392870991687
+      MiniBear [3am(darkness)]_5: 5685740423298032336
+      MiniBear [3am(darkness)]_6: -6597914046069324781
+      MiniBear [3am(darkness)]_7: 5647854759693081367
+      MiniBear [3am(darkness)]_8: 6112151588072727267
+      MiniBear [3am(darkness)]_9: 6842343657627108709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
